@@ -47,3 +47,6 @@ It is a machine learning technique in which the users do not need to supervise t
 
 
 When selecting the model for the analysis, an important consideration is model fitting. Adding independent variables to a linear regression model will always increase the explained variance of the model. However, overfitting can occur by adding too many variables to the model, which reduces model generalizability. Statistically, if a model includes a large number of variables, some of the variables will be statistically significant due to chance alone.
+
+ **Neel Shah**
+mail-id : shahneel2409@gmail.com
